@@ -1,0 +1,7 @@
+.container {
+		margin: 0 auto;
+		max-width: calc(100% - 50px); - this is interesting
+		width: 1200px;
+	}
+
+  multiple container classes to keep everything the same size down the page?
